@@ -1,5 +1,7 @@
 Mightty React Redux Starter: gulp simple app starter for react, react-router, and redux
 
+![](https://cldup.com/uQGID673bap/LdYFlk.gif)
+
 ## Requirements
 __node v4.5.0__ or higher for (partial) ES2015 support
 (IE > 11, Firefox > 45, or Chrome > 55)
