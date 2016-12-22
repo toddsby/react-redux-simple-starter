@@ -1,13 +1,13 @@
-Mightty React Redux Starter: simple app starter for react, react-router, and redux
+Mightty React Redux Starter: gulp simple app starter for react, react-router, and redux
 
 ## Requirements
-Mightty requires __node v4.5.0__ or higher for (partial) ES2015 support.
+__node v4.5.0__ or higher for (partial) ES2015 support
 (IE > 11, Firefox > 45, or Chrome > 55)
 
 @todo
-install yarn
-create and setup localhost-certs
-setup nginx or apache with local dev domain
+* install yarn
+* create and setup localhost-certs
+* setup nginx or apache with local dev domain
 
 ##  Quick Start
 
